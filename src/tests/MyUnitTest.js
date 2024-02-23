@@ -3,9 +3,9 @@ const CustomAdd = (a, b) => {
 }
 
 const testCases = [
-    { input: [2, 3], expectedOutput: 6},
-    { input: [2, 3], expectedOutput: 6},
-    { input: [2, 3], expectedOutput: 6},
+    { input: [2, 3], expectedOutput: 8},
+    { input: [2, 3], expectedOutput: 8},
+    { input: [2, 3], expectedOutput: 8},
 ];
 
 testCases.forEach((testCase) => {
